@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi :) , I'm Priyanshu Gourav Sarangi. Nice to meet you</h1>
 <h3 align="center">I am currently learning web development as well as ML </h3>
-<img align="right" alt="dead" width="400" src="https://tse1.mm.bing.net/th?id=OIP.kwkc_7Yosj69YWbWlDQ-oAHaEo&pid=Api&P=0" />
-<p align="ceenter"> <img src="https://komarev.com/ghpvc/?username=pgs17&label=Profile%20views&color=0e75b6&style=flat" alt="pgs17" /> </p>
+<img align="center" alt="dead" width="400" src="https://tse1.mm.bing.net/th?id=OIP.kwkc_7Yosj69YWbWlDQ-oAHaEo&pid=Api&P=0" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pgs17&label=Profile%20views&color=0e75b6&style=flat" alt="pgs17" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pgs17" alt="pgs17" /></a> </p>
 
