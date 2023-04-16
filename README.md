@@ -2,7 +2,7 @@
 <h1 align="center">Hi :) , I'm Priyanshu Gourav Sarangi. Nice to meet you</h1>
 <h3 align="center">I am currently learning web development as well as ML </h3>
 <img align="right" alt="dead" width="400" src="https://tse1.mm.bing.net/th?id=OIP.kwkc_7Yosj69YWbWlDQ-oAHaEo&pid=Api&P=0" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pgs17&label=Profile%20views&color=0e75b6&style=flat" alt="pgs17" /> </p>
+<p align="ceenter"> <img src="https://komarev.com/ghpvc/?username=pgs17&label=Profile%20views&color=0e75b6&style=flat" alt="pgs17" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pgs17" alt="pgs17" /></a> </p>
 
@@ -27,5 +27,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pgs17&show_icons=true&locale=en&layout=compact" alt="pgs17" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pgs17&show_icons=true&locale=en" alt="pgs17" /></p>
 
+
+ 
+
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pgs17&theme=github)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pgs17&" alt="pgs17" /></p>
