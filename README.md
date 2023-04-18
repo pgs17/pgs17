@@ -1,4 +1,4 @@
- ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Priyanshu;I'm+from+Indial;I'm+a+Full+Stack+Developer;Be+Welcome!+ツ)
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Priyanshu;I'm+from+India;I'm+a+Full+Stack+Developer;Be+Welcome!+ツ)
 <img align="center" alt="dead" width="400" src="https://tse1.mm.bing.net/th?id=OIP.kwkc_7Yosj69YWbWlDQ-oAHaEo&pid=Api&P=0" />
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pgs17&label=Profile%20views&color=0e75b6&style=flat" alt="pgs17" /> </p>
 
