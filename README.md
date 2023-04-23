@@ -25,9 +25,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pgs17&show_icons=true&locale=en&layout=compact" alt="pgs17" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pgs17&show_icons=true&locale=en" alt="pgs17" /></p>
 
-
- 
-
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pgs17&theme=github)
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pgs17&" alt="pgs17" /></p>
+
+<a href="#">
+<img alt="Anil's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=pgs17&theme=tokyo-night&hide_border=true" />
+</a>
