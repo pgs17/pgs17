@@ -16,5 +16,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pgs17&" alt="pgs17" /></p>
 
 <a href="#">
-<img alt="Anil's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=pgs17&theme=tokyo-night&hide_border=true" />
+<img alt="PGSs's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=pgs17&theme=tokyo-night&hide_border=true" />
 </a>
