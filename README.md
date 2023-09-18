@@ -20,9 +20,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pgs17&theme=blue-green&hide_border=true)<br/>
 
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+ 
 <a href="#">
 <img alt="PGS!&'s Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=pgs17&theme=tokyo-night&hide_border=true"/>
 </a>
